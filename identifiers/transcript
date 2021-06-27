@@ -1,0 +1,12 @@
+# Reading pref.tcl
+project open {C:/Users/DELL/Dropbox/My PC (DESKTOP-CQ96EOI)/Desktop/ModelSim/ECN-104_Tutorial-6}
+# Loading project ECN-104_Tutorial-6
+vsim -gui work.testBenchCLA_6bit
+# vsim -gui work.testBenchCLA_6bit 
+# Start time: 10:41:11 on Jun 27,2021
+# Loading work.testBenchCLA_6bit
+# Loading work.CLA_6bit
+add wave -r /*
+run -all
+# End time: 10:41:50 on Jun 27,2021, Elapsed time: 0:00:39
+# Errors: 0, Warnings: 1
